@@ -14,3 +14,8 @@ Steps to get generated code
 4. Fill out the "Choose Your Data Connection"
 5. Check the box next to the tables you need
 6. Click Finish
+
+
+Saving 1:many objects to db: https://www.learnentityframeworkcore.com/relationships/managing-one-to-many-relationships
+
+When EntityFramework won't save: https://stackoverflow.com/questions/9559104/entity-framework-not-saving-changes
