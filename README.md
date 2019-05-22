@@ -19,3 +19,6 @@ Steps to get generated code
 Saving 1:many objects to db: https://www.learnentityframeworkcore.com/relationships/managing-one-to-many-relationships
 
 When EntityFramework won't save: https://stackoverflow.com/questions/9559104/entity-framework-not-saving-changes
+
+Watch list variable to see descriptive reasons why saving with Entity Framework fail:
+"((System.Data.Entity.Validation.DbEntityValidationException)$exception).EntityValidationErrors"
